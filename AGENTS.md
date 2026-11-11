@@ -13,7 +13,7 @@ called Content Pilot.
 - Spring AI 1.1.x
 - Thymeleaf
 - Bootstrap 5
-- PostgreSQL
+- MySQL
 - Spring Data JPA
 - Flyway
 
